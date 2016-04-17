@@ -1,0 +1,38 @@
+body {
+  /*padding-top: 20px;*/
+  /*padding-bottom: 20px;*/
+}
+
+.navbar {
+  /*margin-bottom: 20px;*/
+  /*background-color: #E1F7FF;*/
+  border: none;
+  border-radius: 0px;
+  margin: 0px;
+}
+.navbar-inverse .navbar-brand {
+  color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.text-align-center {
+	text-align: center;
+}
+
+.black_box {
+/*	background-color:black;
+	height:300px;*/
+}
+
+.navbar-inverse .navbar-brand:hover {
+	background-color: grey;
+	border-radius: 40px;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+	background-color: grey;
+	border-radius: 40px;
+}
